@@ -1,0 +1,6 @@
+# Node / system
+node_modules/
+.DS_Store
+.vscode/
+*.log
+assets/YOUR_NAME_Resume.pdf
